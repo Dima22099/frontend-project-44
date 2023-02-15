@@ -30,7 +30,6 @@
 
 [![asciicast](https://asciinema.org/a/1GB9Y4GTXiMchWbNoTuy5MlSD.svg)](https://asciinema.org/a/1GB9Y4GTXiMchWbNoTuy5MlSD)
 
-
 ### brain-calc: 
 Пользователю необходимо корректно посчитать все математические примеры
 
