@@ -37,7 +37,7 @@
 
 
 ### brain-gcd:
-Нужно найди наибольший общий делитель у двух чисел
+Нужно найти наибольший общий делитель у двух чисел
 
 [![asciicast](https://asciinema.org/a/OA4LX5rZAcJDCAnI71Avsz3YA.svg)](https://asciinema.org/a/OA4LX5rZAcJDCAnI71Avsz3YA)
 
