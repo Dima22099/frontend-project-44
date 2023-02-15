@@ -8,4 +8,4 @@ parserOptions:
   sourceSystem: module
 rules:
   no-console: 0
-  import/extensiont: 0
+  import/extensions: 0
