@@ -51,4 +51,4 @@
 ### brain-prime: 
 Является ли число простым?
 
-[![asciicast](https://asciinema.org/a/keQuvUkrYbA27t5HrzNhCX5nt.svg)](https://asciinema.org/a/keQuvUkrYbA27t5HrzNhCX5nt)
+[![asciicast](https://asciinema.org/a/8jFiqKSOAjZNdrCQmOdfU3rLt.svg)](https://asciinema.org/a/8jFiqKSOAjZNdrCQmOdfU3rLt)
