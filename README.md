@@ -19,7 +19,7 @@
 
 Пример:
 
-[![asciicast](https://asciinema.org/a/4yHp2E1kuXhvfrBNeMDd2rB03.svg)](https://asciinema.org/a/4yHp2E1kuXhvfrBNeMDd2rB03)
+[![asciicast](https://asciinema.org/a/8vWtroB4b9zNSLF00yJXQS4Tm.svg)](https://asciinema.org/a/8vWtroB4b9zNSLF00yJXQS4Tm)
 
 
 ## Демонстрации игр:
