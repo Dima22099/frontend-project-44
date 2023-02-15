@@ -39,7 +39,7 @@
 ### brain-gcd:
 Нужно найти наибольший общий делитель у двух чисел
 
-[![asciicast](https://asciinema.org/a/uJz43ZvU9SKjYGULEedNYQcvn.svg)](https://asciinema.org/a/uJz43ZvU9SKjYGULEedNYQcvn)
+[![asciicast](https://asciinema.org/a/vUCQfqLqwwhMTB1tzghWhQFY4.svg)](https://asciinema.org/a/vUCQfqLqwwhMTB1tzghWhQFY4)
 
 
 ### brain-progression: 
