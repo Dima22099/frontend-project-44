@@ -28,7 +28,7 @@
 ### brain-even:
 Суть игры в том, что бы угадать является ли показаное пользователю число чётным
 
-[![asciicast](https://asciinema.org/a/1GB9Y4GTXiMchWbNoTuy5MlSD.svg)](https://asciinema.org/a/1GB9Y4GTXiMchWbNoTuy5MlSD)
+[![asciicast](https://asciinema.org/a/dZghLISzvVLQHzysByzZzwCd9.svg)](https://asciinema.org/a/dZghLISzvVLQHzysByzZzwCd9)
 
 ### brain-calc: 
 Пользователю необходимо корректно посчитать все математические примеры
