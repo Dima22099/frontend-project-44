@@ -33,7 +33,7 @@
 ### brain-calc: 
 Пользователю необходимо корректно посчитать все математические примеры
 
-[![asciicast](https://asciinema.org/a/BKRHdx0ZCrmDTI0F3Ylb9JWOu.svg)](https://asciinema.org/a/BKRHdx0ZCrmDTI0F3Ylb9JWOu)
+[![asciicast](https://asciinema.org/a/HBKjgcY6Mc7g1n5KrX1dZUfoY.svg)](https://asciinema.org/a/HBKjgcY6Mc7g1n5KrX1dZUfoY)
 
 
 ### brain-gcd:
