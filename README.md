@@ -45,7 +45,7 @@
 ### brain-progression: 
 Какое число пропущено в прогрессии?
 
-[![asciicast](https://asciinema.org/a/5AdMmRNDHxXEfkiNJAt0bbMFl.svg)](https://asciinema.org/a/5AdMmRNDHxXEfkiNJAt0bbMFl)
+[![asciicast](https://asciinema.org/a/2Wk9I2bYYdD6rpJL3ID8swrFt.svg)](https://asciinema.org/a/2Wk9I2bYYdD6rpJL3ID8swrFt)
 
 
 ### brain-prime: 
